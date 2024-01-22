@@ -24,7 +24,7 @@ c.
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
-![4](https://github.com/El-Barto-13/Final_test_task/assets/127038873/641c2ce6-f4a7-46d2-aeb7-3297f8c43191)
+![4](https://github.com/El-Barto-13/Final_test_task/assets/127038873/d5219910-2987-4a8c-b3e3-7a74b1d8726d)
 
 5. Выложить [историю команд]([ССЫЛКА НА ИСТОРИЮ КОМАНД](https://github.com/El-Barto-13/Final_test_task/blob/main/HistoryCommandsUbuntuTerminal.md)) в терминале ubuntu
 6. Нарисовать [диаграмму](![5](https://github.com/El-Barto-13/Final_test_task/assets/127038873/454acbc0-6785-49ce-b4eb-b5af3df5eb86)), в которой есть класс родительский класс, домашние
